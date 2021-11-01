@@ -4,7 +4,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Owydoo&show_icons=true&theme=dark)](https://github.com/Owydoo/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Owydoo&langs_count=6&theme=dark)](https://github.com/Owydoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Owydoo&langs_count=7&theme=dark)](https://github.com/Owydoo/github-readme-stats)
 
 - 🔭 I’m currently working on :
 
