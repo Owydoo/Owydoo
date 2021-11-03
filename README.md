@@ -4,11 +4,11 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Owydoo&show_icons=true&theme=dark)](https://github.com/Owydoo/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Owydoo&langs_count=7&theme=dark)](https://github.com/Owydoo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Owydoo&langs_count=8&theme=dark)](https://github.com/Owydoo/github-readme-stats)
 
 - 🔭 I’m currently working on :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Owydoo&repo=Gaming-Bar-Helper&theme=dark)](https://github.com/Owydoo/Gaming-Bar-Helper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Owydoo&repo=Gaming-Bar-Helper&theme=dark)](https://github.com/Owydoo/twitch-chat-highlight)
 
 
 
