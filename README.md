@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Owydoo&repo=Gaming-Bar-Helper&theme=dark)](https://github.com/Owydoo/twitch-chat-highlight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Owydoo&repo=twitch-chat-highlight&theme=dark)](https://github.com/Owydoo/twitch-chat-highlight)
 
 
 
