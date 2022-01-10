@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently a master student in IT in USMB in Savoie, France
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Owydoo&show_icons=true&theme=dark)](https://github.com/Owydoo/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Owydoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Owydoo/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Owydoo&langs_count=8&theme=dark)](https://github.com/Owydoo/github-readme-stats)
 
